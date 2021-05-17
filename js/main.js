@@ -13,7 +13,7 @@ document.body.appendChild( renderer.domElement )
 
 const geometry = new THREE.SphereGeometry(.1)
 
-const amplifier = 100
+const amplifier = 200
 
 //scene.add(cube)
 
